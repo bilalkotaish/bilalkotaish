@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bilal 👋
 
-<!--
-**bilalkotaish/bilalkotaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack MERN Developer** passionate about building scalable, secure, and high-performance web applications.
 
-Here are some ideas to get you started:
+* ⚡ Specialized in MongoDB, Express.js, React.js, and Node.js
+* 🔒 Experienced in RESTful APIs, JWT Authentication, and Stripe Integration
+* 🎨 Building responsive and modern user interfaces with Tailwind CSS
+* 🌱 Continuously learning and improving through real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*"Committed to writing clean, maintainable code and delivering reliable software solutions."*
+
+📫 Connect With Me
+GitHub: https://github.com/bilalkotaish
+LinkedIn: https://linkedin.com/in/bilalkotaish
 -->
